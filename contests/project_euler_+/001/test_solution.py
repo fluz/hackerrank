@@ -1,6 +1,5 @@
 import unittest
 import solution
-from os import listdir
 
 from ddt import ddt, file_data
 
